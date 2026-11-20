@@ -1,0 +1,8 @@
+# Alex Hormozi persona.
+# Sources: 85 public video/audio sources (Acquisition.com trainings, The Game
+# podcast, the official YouTube channel, third-party interviews), transcribed
+# from official captions, podcast VTT, or Whisper ASR, then deduplicated.
+# 4 cross-post duplicates were left out (HA-058 = HA-027, HA-032 and
+# HA-064 = HA-029, HA-081 = HA-030).
+name: Alex Hormozi
+slug: hormozi
